@@ -1,0 +1,101 @@
+body{
+    background-color: #e3eeef;
+    line-height: 1.4;
+    margin: 6px;
+}
+.grayBg{
+    background-color: rgb(174, 178, 179);
+    /* height: 50px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.lightBlue{
+    color: #1010bd;
+    font-weight: bold;
+}
+.extraMargin{
+    margin-left: 15px;
+    font-size: 20px;
+}
+nav{
+    margin-bottom: 15px;
+    -webkit-box-shadow: 14px 9px 15px -7px rgba(0,0,0,0.69);
+    -moz-box-shadow: 14px 9px 15px -7px rgba(0,0,0,0.69);
+    box-shadow: 14px 9px 15px -7px rgba(0,0,0,0.69);
+}
+.blue{
+    color: blue;
+}
+.location{
+    background-image: url("https://www.coolfreecv.com/images/icon/location000000.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+.email{
+    background-image: url("https://www.coolfreecv.com/images/icon/mail000000.png");
+    background-repeat: no-repeat;
+    background-size: 80%;    
+    background-position-y: 90%;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+.phone{
+    background-image: url("https://www.coolfreecv.com/images/icon/mobile000000.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position-y: 50%;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-top: 5px;
+}
+.work{
+    background-image: url("../images/work.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.school{
+    background-image: url("../images/school.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    width: 41px;
+    height: 39px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.info{
+    background-image: url("../images/info.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    width: 45px;
+    height: 35px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.lang{
+    background-image: url("../images/earth-grid-select-language-button.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.skill{
+    background-image: url("../images/skill.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    width: 39px;
+    height: 39px;
+    display: inline-block;
+    margin-top: 0px;
+}
